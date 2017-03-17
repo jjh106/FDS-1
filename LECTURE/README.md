@@ -41,20 +41,20 @@ README.md 수업 자료를 정리한 후, 이 곳에 진행된 내용을 작성�
 > - __[0310](README/0310.md)__ | AudioCtrl 함수 제작, localStorage, Model관리를 위한 생성자 함수 추가
 > - __[0313](README/0313.md)__ | AJAX 활용 실습 Part.1 (HTML, XML, JASON 방식)
 > - __[0314](README/0314.md)__ | AJAX 활용 실습 Part.2 (json-server, faker, axios, babeljs )
+> - __[0315](README/0315.md)__ | ES6 문법 실습 (Arrow Function, template strings, Default Rest Spread Parameters )
 
 ---
 
 ### FDS 3기 남은 교육 진행 일정
 
-| 일자                    | 진행 내용                                    | 비고   |
-| --------------------- | ---------------------------------------- | ---- |
-| 3.[<s>3</s>,<s>6</s>] | <s>JavaScript Core - Fundamental</s>     |      |
-| 3.[<s>7</s>,<s>8</s>,<s>10</s>]            | <s>Scope</s>, <s>Hoisting</s>, <s>Closure</s>, <s>Design Pattern</s>, <s>OOJS</s> |      |
-| 3.[<s>13</s>,<s>14</s>,15]          | <s>Ajax</s> / jQuery Library / <s>Babel</s> / Webpack / <s>ECMAScript 2015(ES6)</s>        |      |
-| 3.[17,20,21,22,24]    | Vue JS Framework + SPA                   |      |
-| 4.[3,4,5,7]           | Team Coaching                            |      |
-| 4.[10,11,12,14]       | Team Coaching                            |      |
-
+| 일자                              | 진행 내용                                    | 비고   |
+| ------------------------------- | ---------------------------------------- | ---- |
+| 3.[<s>3</s>,<s>6</s>]           | <s>JavaScript Core - Fundamental</s>     |      |
+| 3.[<s>7</s>,<s>8</s>,<s>10</s>] | <s>Scope</s>, <s>Hoisting</s>, <s>Closure</s>, <s>Design Pattern</s>, <s>OOJS</s> |      |
+| 3.[<s>13</s>,<s>14</s>,<s>15</s>]      | <s>Ajax</s> / jQuery / <s>Babel</s> / Webpack / <s>ES6</s> |      |
+| 3.[17,20,21,22,24]              | Vue JS Framework<br>(vue-resource, vue-router, vuex)                   | __수업 미진행 분량__<br>동영상 강의로 대체 예정(프로젝트 필요 부분) |
+| 4.[3,4,5,7]                     | Team Coaching                            |      |
+| 4.[10,11,12,14]                 | Team Coaching                            |      |
 
 ---
 
